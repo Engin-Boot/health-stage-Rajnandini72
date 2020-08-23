@@ -1,4 +1,4 @@
-# Data Storafe and Processing
+# Data Storage and Processing
 
 ## Feature
 
@@ -13,6 +13,6 @@ Well maintained equipments,capable of generating digital data formats
   
   When  :Data needs to store
 
-  Then  :Generate the report of supporting data format and display media for that data.(Can be use when user demand to download data file)
+  Then  :Preprocess the data and Generate the report of supporting data format and display media for that data.(Can be use when user demand to download data file)
 
 
